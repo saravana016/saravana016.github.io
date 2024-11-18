@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Computer Science researcher with a PhD from [Nanyang Technological University (NTU)](https://www.ntu.edu.sg), advised by Associate Professor [Arvind Easwaran](https://personal.ntu.edu.sg/arvinde/). With a strong foundation in both theoretical and applied research, I have worked as a Research Fellow at [TUMCREATE](https://www.tum-create.edu.sg) and the [Singtel Cognitive and Artificial Intelligence Lab (SCALE@NTU)](https://www.ntu.edu.sg/scale) lab, where I collaborated on cutting-edge projects at the intersection of autonomous systems, smart transportation, cyber-physical systems, etc. My research focuses on resource allocation and scheduling, algorithm design & analysis, software architectures, optimization techniques and smart infrastructure. 
+I am a postdoctoral researcher with a PhD in Computer Science from [Nanyang Technological University (NTU)](https://www.ntu.edu.sg), advised by Associate Professor [Arvind Easwaran](https://personal.ntu.edu.sg/arvinde/). I have worked as a Research Fellow at [TUMCREATE](https://www.tum-create.edu.sg) and the [Singtel Cognitive and Artificial Intelligence Lab (SCALE@NTU)](https://www.ntu.edu.sg/scale) lab, where I collaborated on cutting-edge projects at the intersection of autonomous systems, smart transportation and internet-of-things. My research focuses on resource allocation and scheduling, algorithm design & analysis, optimization techniques and software architectures in domains such as cyber-physical systems, smart mobility and urban infrastructure. 
 
 Feel free to reach out for collaborations, discussions, or to explore my work further!
 
