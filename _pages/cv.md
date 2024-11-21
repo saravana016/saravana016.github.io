@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D in Computer Science, Nanyang Technological University, 2019
 * M.Sc. in Embedded Systems, Nanyang Technological University, 2014
-* B.E. in Electronics and Communication, College of Engineering Guindy, Anna University Chennai, 2011
+* B.E. in Electronics and Communication, CEG, Anna University Chennai, 2011
 
 Work experience
 ======
