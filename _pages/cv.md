@@ -17,21 +17,22 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Research Fellow
+  * Singtel Cognitive and Artificial Intelligence Lab for Enterprises (SCALE@NTU)
+  * Led research on AI-driven multi-agent systems for optimizing pickup and delivery, enhancing efficiency and reducing costs in urban logistics
+  * Supervisor: Professor Xueyan Tang
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Research Fellow
+  * TUMCREATE Ltd., Singapore
+  * Conducted independent and collaborative research in areas related to sustainable transportation, smart mobility, and urban infrastructure
+  * Supervisor: Professor Sebastian Steinhorst
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* Test Engineer
+  * Aricent Group, Bangalore
+  * Development of test bed/scripts for feature and integration testing of Short Message Service Center (SMSC)
+  * Managed virtualized server environment spanning multiple data centers 
+
+<!--
 Skills
 ======
 * Skill 1
@@ -41,7 +42,7 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-<!--
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -60,6 +61,14 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
     -->
+    
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Technical Program Committee: RTSS'23, RTSS'22, RTCSA'19
+* Conference Reviewer: RTSS, DS-RT, RTCSA, DATE, ISORC, ECRTS, RTAS
+* Journal Reviewer: TCAD, ToC, TPDS, ACCESS, IT, RTS, ESL, TECS, IOTJ
+* Selected as a participant for The Global Young Scientists Summit 2021
+* Co-ordinator, Hospitality Team, ISORC'18
+* Director of Operations & Logistics, SCSE GSC, NTU Singapore
+* Mentor & Student Director of Finance, Kurukshetra, Anna University Chennai
+* Treasurer and Camp Secretary, NSS Unit-4, Anna University Chennai
