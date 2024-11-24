@@ -9,14 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-# Education
-======
+## Education
+<!-- ====== -->
 * Ph.D in Computer Science, Nanyang Technological University, 2019
 * M.Sc. in Embedded Systems, Nanyang Technological University, 2014
 * B.E. in Electronics and Communication, CEG, Anna University Chennai, 2011
 
-# Work experience
-======
+## Work experience
+<!-- ====== -->
 * Research Fellow
   * Singtel Cognitive and Artificial Intelligence Lab for Enterprises (SCALE@NTU)
   * Led research on AI-driven multi-agent systems for optimizing pickup and delivery, enhancing efficiency and reducing costs in urban logistics
@@ -62,8 +62,8 @@ Teaching
   {% endfor %}</ul>
     -->
     
-# Service and leadership
-======
+## Service and leadership
+<!-- ====== -->
 * Technical Program Committee: RTSS'23, RTSS'22, RTCSA'19
 * Conference Reviewer: RTSS, DS-RT, RTCSA, DATE, ISORC, ECRTS, RTAS
 * Journal Reviewer: TCAD, ToC, TPDS, ACCESS, IT, RTS, ESL, TECS, IOTJ
