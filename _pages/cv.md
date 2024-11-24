@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Education
+---
 <!-- ====== -->
 * Ph.D in Computer Science, Nanyang Technological University, 2019
 * M.Sc. in Embedded Systems, Nanyang Technological University, 2014
