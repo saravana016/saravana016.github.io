@@ -17,6 +17,7 @@ redirect_from:
 * B.E. in Electronics and Communication, CEG, Anna University Chennai, 2011
 
 ## Work experience
+---
 <!-- ====== -->
 * Research Fellow
   * Singtel Cognitive and Artificial Intelligence Lab for Enterprises (SCALE@NTU)
@@ -64,6 +65,7 @@ Teaching
     -->
     
 ## Service and leadership
+---
 <!-- ====== -->
 * Technical Program Committee: RTSS'23, RTSS'22, RTCSA'19
 * Conference Reviewer: RTSS, DS-RT, RTCSA, DATE, ISORC, ECRTS, RTAS
