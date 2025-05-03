@@ -22,12 +22,12 @@ redirect_from:
 * Research Fellow
   * Singtel Cognitive and Artificial Intelligence Lab for Enterprises (SCALE@NTU)
   * Led research on AI-driven multi-agent systems for optimizing pickup and delivery, enhancing efficiency and reducing costs in urban logistics
-  * Supervisor: Professor Xueyan Tang
+  * Developed algorithms for coordinating autonomous agents, path planning ensuring effective routing and resource allocation in dynamic environments
 
 * Research Fellow
   * TUMCREATE Ltd., Singapore
   * Conducted independent and collaborative research in areas related to sustainable transportation, smart mobility, and urban infrastructure
-  * Supervisor: Professor Sebastian Steinhorst
+  * Mentored junior researchers and students, fostering academic and professional growth
 
 * Test Engineer
   * Aricent Group, Bangalore
