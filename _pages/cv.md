@@ -7,18 +7,22 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<!-- {% include base_path %} -->
 
 ## Education
 ---
 <!-- ====== -->
-* Ph.D in Computer Science, Nanyang Technological University, 2019
-* M.Sc. in Embedded Systems, Nanyang Technological University, 2014
-* B.E. in Electronics and Communication, CEG, Anna University Chennai, 2011
+* Ph.D in Computer Science, Nanyang Technological University, Singapore
+* M.Sc. in Embedded Systems, Nanyang Technological University, Singapore
+* B.E. in Electronics and Communication, CEG, Anna University Chennai, India
 
 ## Work experience
 ---
 <!-- ====== -->
+* Lecturer
+  * National University of Singapore
+  * Deliver engaging lectures, design innovative curriculum, and conduct pedagogical research to advance student learning outcomes in real-time embedded systems
+    
 * Research Fellow
   * Singtel Cognitive and Artificial Intelligence Lab for Enterprises (SCALE@NTU)
   * Led research on AI-driven multi-agent systems for optimizing pickup and delivery, enhancing efficiency and reducing costs in urban logistics
