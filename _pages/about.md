@@ -7,11 +7,13 @@ redirect_from:
   - /about.html
 ---
 
+<div style="text-align: justify; text-justify: inter-word;">
 I am a Lecturer in the Department of Electrical and Computer Engineering at [National University of Singapore (NUS)](https://www.nus.edu.sg). I hold a Ph.D. degree in Computer Science and Engineering from [Nanyang Technological University (NTU)](https://www.ntu.edu.sg), where I was advised by Professor [Arvind Easwaran](https://personal.ntu.edu.sg/arvinde/). My research journey spans multiple interdisciplinary domains, including <b>autonomous systems</b>, <b>smart transportation</b>, and the <b>Internet of Things (IoT)</b>. I have had the privilege of working as a Research Fellow at [TUMCREATE](https://www.tum-create.edu.sg) Singapore and the [Singtel Cognitive and Artificial Intelligence Lab (SCALE@NTU)](https://www.ntu.edu.sg/scale), collaborating on innovative projects that bridge the gap between cutting-edge technologies and real-world applications.
 
 My core research interests lie in resource allocation, scheduling algorithms, optimization techniques, distributed computing, and software architecture — with a particular focus on <b>cyber-physical systems</b>, <b>smart mobility</b>, and <b>urban infrastructure</b>. I leverage advanced <b>algorithm design and analysis</b> to solve complex problems in these areas, contributing to scalable, efficient, and resilient solutions for next-generation <b>smart cities</b> and <b>intelligent systems</b>.
 
 Feel free to reach out for collaborations, discussions, or to explore my research further!
+</div>
 
 <!--
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
