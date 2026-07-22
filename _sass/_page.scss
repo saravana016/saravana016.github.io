@@ -50,6 +50,9 @@
 
 .page__content {
 
+  text-align: justify;
+  text-justify: inter-word;
+
   h2 {
     padding-bottom: 0.5em;
     border-bottom: 1px solid $border-color;
